@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Apiproject/static/css/main.073c9b0a.css",
+    "main.js": "/Apiproject/static/js/main.3370b6a5.js",
+    "static/js/787.e6a7860e.chunk.js": "/Apiproject/static/js/787.e6a7860e.chunk.js",
+    "index.html": "/Apiproject/index.html",
+    "main.073c9b0a.css.map": "/Apiproject/static/css/main.073c9b0a.css.map",
+    "main.3370b6a5.js.map": "/Apiproject/static/js/main.3370b6a5.js.map",
+    "787.e6a7860e.chunk.js.map": "/Apiproject/static/js/787.e6a7860e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.3370b6a5.js"
+  ]
+}
